@@ -1,0 +1,15 @@
+.inline {
+     display: inline;
+}
+.inline2{
+    display: inline;
+    height: 320px;
+    background-color: yellow;
+}
+.overflow{ 
+background-color: purple;
+width: 30%;
+height: 60px;  height: 200px;
+border: 2px solid black
+overflow;scroll  
+}
